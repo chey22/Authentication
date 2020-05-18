@@ -4,7 +4,7 @@ import apiRouter from "./routes";
 
 const app = express();
 
-let p = path.join(__dirname, "./public");
+let p = path.join(__dirname, "../public");
 
 //MIDDLEWARES
 
